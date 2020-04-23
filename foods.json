@@ -1,0 +1,24 @@
+{
+  "food":[
+    {
+      "name": "pasta",
+      "image": "assets/images/food1.jpg"
+    },
+    {
+      "name": "biriyani",
+      "image": "assets/images/food2.jpg"
+    },
+    {
+      "name": "kuzhi manthi",
+      "image": "assets/images/food3.jpg"
+    },
+    {
+      "name": "noodles",
+      "image": "assets/images/food1.jpg"
+    },
+    {
+      "name": "meals",
+      "image": "assets/images/food2.jpg"
+    }
+  ]
+}
